@@ -1,11 +1,63 @@
-/* CSS do formulário de login*/
-
-#div_topo {
-    background-color: rgb(167, 167, 87);
-    border-radius: 8px;
-}
-
-#form_authentication {
-    margin-left: 743px;
-    padding: 10px;
-}
+    /* CSS do formulário de login */
+    
+    #div_topo {
+        background-color: rgb(167, 167, 87);
+        border-radius: 8px;
+    }
+    
+    #form_authentication {
+        margin-left: 743px;
+        padding: 10px;
+    }
+    /* CSS do formulário de cadastro */
+    
+    #div_centro {
+        background-color: yellow;
+        border-radius: 10px;
+        border-width: 2px;
+        border-style: solid;
+        border-color: black;
+        margin-top: 125px;
+        margin-left: 390px;
+        margin-right: 405px;
+        padding: 20px;
+    }
+    
+    #form_cadastro {
+        padding: 38px;
+    }
+    
+    .lbl_form1 {
+        margin-right: 10px;
+        height: 30px;
+        font-size: 17px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .input_form1 {
+        padding: 5px;
+        width: 315px;
+        border-radius: 4px;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+    
+    #btn_cadastro {
+        background-color: rgba(69, 119, 121, 0.7);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 17px;
+        margin-top: 8px;
+        margin-left: 58px;
+        border-width: 1px;
+        border-style: solid;
+        border-radius: 3px;
+        border-color: black;
+        height: 30px;
+        width: 200px;
+    }
+    /* fundo da tela */
+    
+    body {
+        background-color: rgb(63, 71, 63);
+    }
